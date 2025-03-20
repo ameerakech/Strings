@@ -1,1 +1,1 @@
-# Strings
+# Added a javascript file
